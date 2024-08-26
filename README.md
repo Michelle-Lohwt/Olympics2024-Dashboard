@@ -1,5 +1,5 @@
 # Paris Olympics 2024 Dashboard
-[![Deployed Paris Olympics 2024 Web Dashboard](static/image.png)](static/Recording.mp4)
+[![Deployed Paris Olympics 2024 Web Dashboard](static/image.png)](https://youtu.be/T9hWDzYVihA)
 
 The 2024 Summer Olympics, officially the Games of the XXXIII Olympiad and branded as Paris 2024, is an international multi-sport event that are occuring from 24 July to 11 August 2024 in France, with the opening ceremony having taken place on 26 July.
 To provide comprehensive overview of Paris 2024 to audiences, particularly on tracking medals by countries, sports and athletes
